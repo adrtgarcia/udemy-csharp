@@ -1,0 +1,15 @@
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\bin\Debug\net6.0\TimeOnly2.exe
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\bin\Debug\net6.0\TimeOnly2.deps.json
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\bin\Debug\net6.0\TimeOnly2.runtimeconfig.json
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\bin\Debug\net6.0\TimeOnly2.dll
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\bin\Debug\net6.0\ref\TimeOnly2.dll
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\bin\Debug\net6.0\TimeOnly2.pdb
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\TimeOnly2.csproj.AssemblyReference.cache
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\TimeOnly2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\TimeOnly2.AssemblyInfoInputs.cache
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\TimeOnly2.AssemblyInfo.cs
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\TimeOnly2.csproj.CoreCompileInputs.cache
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\TimeOnly2.dll
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\ref\TimeOnly2.dll
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\TimeOnly2.pdb
+D:\_net6\CSharp\TimeOnly1\TimeOnly2\obj\Debug\net6.0\TimeOnly2.genruntimeconfig.cache

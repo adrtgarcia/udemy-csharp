@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d48c42a2-523f-48d7-8c67-058381f5872e": {
+      "ProjectGuid": "d48c42a2-523f-48d7-8c67-058381f5872e",
+      "DisplayName": "DataHora_Novidades",
+      "ColorIndex": 0
+    },
+    "07ef990d-80ed-4d2b-93ca-3a660632a600": {
+      "ProjectGuid": "07ef990d-80ed-4d2b-93ca-3a660632a600",
+      "DisplayName": "DateOnly1",
+      "ColorIndex": 1
+    },
+    "252d3b0d-15ff-479b-b85e-24e9a3d597e2": {
+      "ProjectGuid": "252d3b0d-15ff-479b-b85e-24e9a3d597e2",
+      "DisplayName": "DateOnly2",
+      "ColorIndex": 2
+    },
+    "b774c827-c63b-420b-96fc-25314cdf2b76": {
+      "ProjectGuid": "b774c827-c63b-420b-96fc-25314cdf2b76",
+      "DisplayName": "DateOnly3",
+      "ColorIndex": 3
+    },
+    "d64228c6-3797-43a4-a6f1-dab3160cda56": {
+      "ProjectGuid": "d64228c6-3797-43a4-a6f1-dab3160cda56",
+      "DisplayName": "Using_Global",
+      "ColorIndex": 4
+    },
+    "72496d37-92e6-4d35-a24b-0137fb2f561d": {
+      "ProjectGuid": "72496d37-92e6-4d35-a24b-0137fb2f561d",
+      "DisplayName": "DateOnly4",
+      "ColorIndex": 5
+    },
+    "741192ea-a6e7-405a-bba2-388f6906d082": {
+      "ProjectGuid": "741192ea-a6e7-405a-bba2-388f6906d082",
+      "DisplayName": "DateOnly5",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

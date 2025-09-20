@@ -1,0 +1,15 @@
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\bin\Debug\net6.0\TimeOnly3.exe
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\bin\Debug\net6.0\TimeOnly3.deps.json
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\bin\Debug\net6.0\TimeOnly3.runtimeconfig.json
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\bin\Debug\net6.0\TimeOnly3.dll
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\bin\Debug\net6.0\ref\TimeOnly3.dll
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\bin\Debug\net6.0\TimeOnly3.pdb
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\TimeOnly3.csproj.AssemblyReference.cache
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\TimeOnly3.GeneratedMSBuildEditorConfig.editorconfig
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\TimeOnly3.AssemblyInfoInputs.cache
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\TimeOnly3.AssemblyInfo.cs
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\TimeOnly3.csproj.CoreCompileInputs.cache
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\TimeOnly3.dll
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\ref\TimeOnly3.dll
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\TimeOnly3.pdb
+D:\_net6\CSharp\TimeOnly1\TimeOnly3\obj\Debug\net6.0\TimeOnly3.genruntimeconfig.cache

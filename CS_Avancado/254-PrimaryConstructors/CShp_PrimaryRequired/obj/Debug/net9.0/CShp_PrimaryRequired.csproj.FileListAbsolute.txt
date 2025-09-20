@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\CShp_PrimaryRequired.exe
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\CShp_PrimaryRequired.deps.json
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\CShp_PrimaryRequired.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\CShp_PrimaryRequired.dll
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\CShp_PrimaryRequired.pdb
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\CShp_PrimaryRequired.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\CShp_PrimaryRequired.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\CShp_PrimaryRequired.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\CShp_PrimaryRequired.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\CShp_PrimaryRequired.dll
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\refint\CShp_PrimaryRequired.dll
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\CShp_PrimaryRequired.pdb
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\CShp_PrimaryRequired.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\ref\CShp_PrimaryRequired.dll

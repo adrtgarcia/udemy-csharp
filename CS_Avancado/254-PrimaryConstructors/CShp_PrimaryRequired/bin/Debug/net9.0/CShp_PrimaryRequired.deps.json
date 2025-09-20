@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CShp_PrimaryRequired/1.0.0": {
+        "runtime": {
+          "CShp_PrimaryRequired.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CShp_PrimaryRequired/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

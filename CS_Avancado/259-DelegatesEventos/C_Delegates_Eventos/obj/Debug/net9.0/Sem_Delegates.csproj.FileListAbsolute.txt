@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\bin\Debug\net9.0\Sem_Delegates.exe
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\bin\Debug\net9.0\Sem_Delegates.deps.json
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\bin\Debug\net9.0\Sem_Delegates.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\bin\Debug\net9.0\Sem_Delegates.dll
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\bin\Debug\net9.0\Sem_Delegates.pdb
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\Sem_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\Sem_Delegates.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\Sem_Delegates.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\Sem_Delegates.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\Sem_Delegates.dll
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\refint\Sem_Delegates.dll
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\Sem_Delegates.pdb
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\Sem_Delegates.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\C_Delegates_Eventos\obj\Debug\net9.0\ref\Sem_Delegates.dll

@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\bin\Debug\net9.0\Pratica.exe
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\bin\Debug\net9.0\Pratica.deps.json
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\bin\Debug\net9.0\Pratica.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\bin\Debug\net9.0\Pratica.dll
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\bin\Debug\net9.0\Pratica.pdb
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\Pratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\Pratica.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\Pratica.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\Pratica.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\Pratica.dll
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\refint\Pratica.dll
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\Pratica.pdb
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\Pratica.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\RangeEIndices\Pratica\obj\Debug\net9.0\ref\Pratica.dll

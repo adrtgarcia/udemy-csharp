@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\bin\Debug\net9.0\LINQ_ExtensionMethods.exe
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\bin\Debug\net9.0\LINQ_ExtensionMethods.deps.json
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\bin\Debug\net9.0\LINQ_ExtensionMethods.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\bin\Debug\net9.0\LINQ_ExtensionMethods.dll
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\bin\Debug\net9.0\LINQ_ExtensionMethods.pdb
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\LINQ_ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\LINQ_ExtensionMethods.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\LINQ_ExtensionMethods.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\LINQ_ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\LINQ_ExtensionMethods.dll
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\refint\LINQ_ExtensionMethods.dll
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\LINQ_ExtensionMethods.pdb
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\LINQ_ExtensionMethods.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\LINQ_ExtensionMethods\LINQ_ExtensionMethods\obj\Debug\net9.0\ref\LINQ_ExtensionMethods.dll

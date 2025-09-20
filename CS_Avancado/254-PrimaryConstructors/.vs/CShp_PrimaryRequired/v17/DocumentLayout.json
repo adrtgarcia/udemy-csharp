@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654BAF15-BDBA-439E-A6C3-689B777861C1}|Depois\\Depois.csproj|d:\\_artigos\\_net9\\_cshp13\\cshp_primaryrequired\\depois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654BAF15-BDBA-439E-A6C3-689B777861C1}|Depois\\Depois.csproj|solutionrelative:depois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BF95EF-42A6-4FE5-BD6D-743F908F0D22}|CShp_PrimaryRequired\\Antes.csproj|d:\\_artigos\\_net9\\_cshp13\\cshp_primaryrequired\\cshp_primaryrequired\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BF95EF-42A6-4FE5-BD6D-743F908F0D22}|CShp_PrimaryRequired\\Antes.csproj|solutionrelative:cshp_primaryrequired\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E384A2C6-AD7A-4DD1-B653-95550E326B7C}|Exercicio_PC\\Exercicio_PC.csproj|d:\\_artigos\\_net9\\_cshp13\\cshp_primaryrequired\\exercicio_pc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E384A2C6-AD7A-4DD1-B653-95550E326B7C}|Exercicio_PC\\Exercicio_PC.csproj|solutionrelative:exercicio_pc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFADC03-2AB4-441B-96BB-3789BFB2E659}|Exercicio_PrimaryConstructor\\Exercicio_Padrao.csproj|d:\\_artigos\\_net9\\_cshp13\\cshp_primaryrequired\\exercicio_primaryconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFADC03-2AB4-441B-96BB-3789BFB2E659}|Exercicio_PrimaryConstructor\\Exercicio_Padrao.csproj|solutionrelative:exercicio_primaryconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\Exercicio_PC\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_PC\\Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\Exercicio_PC\\Program.cs",
+              "RelativeToolTip": "Exercicio_PC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:59:12.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\Depois\\Program.cs",
+              "RelativeDocumentMoniker": "Depois\\Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\Depois\\Program.cs",
+              "RelativeToolTip": "Depois\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:17:31.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\CShp_PrimaryRequired\\Program.cs",
+              "RelativeDocumentMoniker": "CShp_PrimaryRequired\\Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\CShp_PrimaryRequired\\Program.cs",
+              "RelativeToolTip": "CShp_PrimaryRequired\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:17:25.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\Exercicio_PrimaryConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_PrimaryConstructor\\Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\CShp_PrimaryRequired\\Exercicio_PrimaryConstructor\\Program.cs",
+              "RelativeToolTip": "Exercicio_PrimaryConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:55:08.315Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

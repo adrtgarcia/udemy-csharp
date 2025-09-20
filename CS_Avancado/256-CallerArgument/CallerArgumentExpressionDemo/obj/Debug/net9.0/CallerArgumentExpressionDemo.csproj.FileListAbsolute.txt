@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\bin\Debug\net9.0\CallerArgumentExpressionDemo.exe
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\bin\Debug\net9.0\CallerArgumentExpressionDemo.deps.json
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\bin\Debug\net9.0\CallerArgumentExpressionDemo.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\bin\Debug\net9.0\CallerArgumentExpressionDemo.dll
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\bin\Debug\net9.0\CallerArgumentExpressionDemo.pdb
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\CallerArgumentExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\CallerArgumentExpressionDemo.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\CallerArgumentExpressionDemo.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\CallerArgumentExpressionDemo.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\CallerArgumentExpressionDemo.dll
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\refint\CallerArgumentExpressionDemo.dll
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\CallerArgumentExpressionDemo.pdb
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\CallerArgumentExpressionDemo.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\CallerArgumentExpressionDemo\CallerArgumentExpressionDemo\obj\Debug\net9.0\ref\CallerArgumentExpressionDemo.dll

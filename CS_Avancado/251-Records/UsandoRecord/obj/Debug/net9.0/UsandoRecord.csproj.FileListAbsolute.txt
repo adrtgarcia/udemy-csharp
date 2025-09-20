@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\bin\Debug\net9.0\UsandoRecord.exe
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\bin\Debug\net9.0\UsandoRecord.deps.json
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\bin\Debug\net9.0\UsandoRecord.runtimeconfig.json
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\bin\Debug\net9.0\UsandoRecord.dll
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\bin\Debug\net9.0\UsandoRecord.pdb
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\UsandoRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\UsandoRecord.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\UsandoRecord.AssemblyInfo.cs
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\UsandoRecord.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\UsandoRecord.dll
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\refint\UsandoRecord.dll
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\UsandoRecord.pdb
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\UsandoRecord.genruntimeconfig.cache
+D:\_Artigos\_net9\SolutionRecords\UsandoRecord\obj\Debug\net9.0\ref\UsandoRecord.dll

@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\bin\Debug\net9.0\Com_Delegates.exe
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\bin\Debug\net9.0\Com_Delegates.deps.json
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\bin\Debug\net9.0\Com_Delegates.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\bin\Debug\net9.0\Com_Delegates.dll
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\bin\Debug\net9.0\Com_Delegates.pdb
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\Com_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\Com_Delegates.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\Com_Delegates.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\Com_Delegates.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\Com_Delegates.dll
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\refint\Com_Delegates.dll
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\Com_Delegates.pdb
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\Com_Delegates.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\C_Delegates_Eventos\Com_Delegates\obj\Debug\net9.0\ref\Com_Delegates.dll

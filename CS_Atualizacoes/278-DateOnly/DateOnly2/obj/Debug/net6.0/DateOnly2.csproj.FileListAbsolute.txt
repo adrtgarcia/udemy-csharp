@@ -1,0 +1,15 @@
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\bin\Debug\net6.0\DateOnly2.exe
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\bin\Debug\net6.0\DateOnly2.deps.json
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\bin\Debug\net6.0\DateOnly2.runtimeconfig.json
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\bin\Debug\net6.0\DateOnly2.dll
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\bin\Debug\net6.0\ref\DateOnly2.dll
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\bin\Debug\net6.0\DateOnly2.pdb
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\DateOnly2.csproj.AssemblyReference.cache
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\DateOnly2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\DateOnly2.AssemblyInfoInputs.cache
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\DateOnly2.AssemblyInfo.cs
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\DateOnly2.csproj.CoreCompileInputs.cache
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\DateOnly2.dll
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\ref\DateOnly2.dll
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\DateOnly2.pdb
+D:\_net6\CSharp\DataHora_Novidades\DateOnly2\obj\Debug\net6.0\DateOnly2.genruntimeconfig.cache

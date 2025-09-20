@@ -1,0 +1,14 @@
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\bin\Debug\net9.0\Demo.exe
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\bin\Debug\net9.0\Demo.deps.json
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\bin\Debug\net9.0\Demo.dll
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\bin\Debug\net9.0\Demo.pdb
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\Demo.dll
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\refint\Demo.dll
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\Demo.pdb
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+D:\_Videos\net9\cshp13\UsandoChannels\Demo\obj\Debug\net9.0\ref\Demo.dll

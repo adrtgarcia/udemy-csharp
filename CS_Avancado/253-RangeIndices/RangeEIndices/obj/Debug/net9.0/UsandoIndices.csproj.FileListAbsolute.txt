@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\bin\Debug\net9.0\UsandoIndices.exe
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\bin\Debug\net9.0\UsandoIndices.deps.json
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\bin\Debug\net9.0\UsandoIndices.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\bin\Debug\net9.0\UsandoIndices.dll
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\bin\Debug\net9.0\UsandoIndices.pdb
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\UsandoIndices.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\UsandoIndices.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\UsandoIndices.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\UsandoIndices.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\UsandoIndices.dll
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\refint\UsandoIndices.dll
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\UsandoIndices.pdb
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\UsandoIndices.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\RangeEIndices\RangeEIndices\obj\Debug\net9.0\ref\UsandoIndices.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|d:\\_artigos\\_net9\\_aspnc\\apiprodutos\\apiprodutosmelhorada\\exceptionmiddleware\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|solutionrelative:apiprodutosmelhorada\\exceptionmiddleware\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|d:\\_artigos\\_net9\\_aspnc\\apiprodutos\\apiprodutosmelhorada\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|solutionrelative:apiprodutosmelhorada\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|d:\\_artigos\\_net9\\_aspnc\\apiprodutos\\apiprodutosmelhorada\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|solutionrelative:apiprodutosmelhorada\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|d:\\_artigos\\_net9\\_aspnc\\apiprodutos\\apiprodutosmelhorada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|solutionrelative:apiprodutosmelhorada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|d:\\_artigos\\_net9\\_aspnc\\apiprodutos\\apiprodutosmelhorada\\customexceptions\\produtonotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9280E92-32F1-4A6D-AAC5-951D84B60ABB}|ApiProdutosMelhorada\\ApiProdutosMelhorada.csproj|solutionrelative:apiprodutosmelhorada\\customexceptions\\produtonotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProdutosMelhorada\\Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\Program.cs",
+              "RelativeToolTip": "ApiProdutosMelhorada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:43:21.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoNotFoundException.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\CustomExceptions\\ProdutoNotFoundException.cs",
+              "RelativeDocumentMoniker": "ApiProdutosMelhorada\\CustomExceptions\\ProdutoNotFoundException.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\CustomExceptions\\ProdutoNotFoundException.cs",
+              "RelativeToolTip": "ApiProdutosMelhorada\\CustomExceptions\\ProdutoNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:43:12.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\ExceptionMiddleware\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "ApiProdutosMelhorada\\ExceptionMiddleware\\GlobalExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\ExceptionMiddleware\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "ApiProdutosMelhorada\\ExceptionMiddleware\\GlobalExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:43:03.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ApiProdutosMelhorada\\Controllers\\ProdutosController.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ApiProdutosMelhorada\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:42:53.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ApiProdutosMelhorada\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_aspnc\\ApiProdutos\\ApiProdutosMelhorada\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "ApiProdutosMelhorada\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:42:46.787Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

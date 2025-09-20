@@ -1,0 +1,12 @@
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\bin\Debug\net9.0\MeuGerador.deps.json
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\bin\Debug\net9.0\MeuGerador.dll
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\bin\Debug\net9.0\MeuGerador.pdb
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\MeuGerador.csproj.AssemblyReference.cache
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\MeuGerador.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\MeuGerador.AssemblyInfoInputs.cache
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\MeuGerador.AssemblyInfo.cs
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\MeuGerador.csproj.CoreCompileInputs.cache
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\MeuGerador.dll
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\refint\MeuGerador.dll
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\MeuGerador.pdb
+D:\_Videos\net9\cshp13\Usando_SourceGenerators\MeuGerador\obj\Debug\net9.0\ref\MeuGerador.dll

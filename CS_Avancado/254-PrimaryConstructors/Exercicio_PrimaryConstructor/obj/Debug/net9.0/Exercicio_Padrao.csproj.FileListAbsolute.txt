@@ -1,0 +1,4 @@
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\Exercicio_PrimaryConstructor\obj\Debug\net9.0\Exercicio_Padrao.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\Exercicio_PrimaryConstructor\obj\Debug\net9.0\Exercicio_Padrao.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\Exercicio_PrimaryConstructor\obj\Debug\net9.0\Exercicio_Padrao.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\Exercicio_PrimaryConstructor\obj\Debug\net9.0\Exercicio_Padrao.csproj.CoreCompileInputs.cache

@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|d:\\_videos\\_net9\\aspnet\\apivendas\\apivendas\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|solutionrelative:apivendas\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|d:\\_videos\\_net9\\aspnet\\apivendas\\apivendas\\services\\implasemdecorator\\calculadoraprecoprodutolegado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|solutionrelative:apivendas\\services\\implasemdecorator\\calculadoraprecoprodutolegado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|d:\\_videos\\_net9\\aspnet\\apivendas\\apivendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|solutionrelative:apivendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|d:\\_videos\\_net9\\aspnet\\apivendas\\apivendas\\services\\implacomdecorator\\loggerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|solutionrelative:apivendas\\services\\implacomdecorator\\loggerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|d:\\_videos\\_net9\\aspnet\\apivendas\\apivendas\\services\\implacomdecorator\\calculadoraprecoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|solutionrelative:apivendas\\services\\implacomdecorator\\calculadoraprecoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|d:\\_videos\\_net9\\aspnet\\apivendas\\apivendas\\services\\abstractions\\icalculadoraprecoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|solutionrelative:apivendas\\services\\abstractions\\icalculadoraprecoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|d:\\_videos\\_net9\\aspnet\\apivendas\\apivendas\\apivendas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|solutionrelative:apivendas\\apivendas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|d:\\_videos\\_net9\\aspnet\\apivendas\\apivendas\\services\\implacomdecorator\\descontodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C594519C-F0E0-4A64-974C-C90C616F53C3}|ApiVendas\\ApiVendas.csproj|solutionrelative:apivendas\\services\\implacomdecorator\\descontodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendasController.cs",
+              "DocumentMoniker": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Controllers\\VendasController.cs",
+              "RelativeDocumentMoniker": "ApiVendas\\Controllers\\VendasController.cs",
+              "ToolTip": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Controllers\\VendasController.cs",
+              "RelativeToolTip": "ApiVendas\\Controllers\\VendasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:31:21.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraPrecoProdutoLegado.cs",
+              "DocumentMoniker": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\ImplaSemDecorator\\CalculadoraPrecoProdutoLegado.cs",
+              "RelativeDocumentMoniker": "ApiVendas\\Services\\ImplaSemDecorator\\CalculadoraPrecoProdutoLegado.cs",
+              "ToolTip": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\ImplaSemDecorator\\CalculadoraPrecoProdutoLegado.cs",
+              "RelativeToolTip": "ApiVendas\\Services\\ImplaSemDecorator\\CalculadoraPrecoProdutoLegado.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:04:19.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggerDecorator.cs",
+              "DocumentMoniker": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\ImplaComDecorator\\LoggerDecorator.cs",
+              "RelativeDocumentMoniker": "ApiVendas\\Services\\ImplaComDecorator\\LoggerDecorator.cs",
+              "ToolTip": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\ImplaComDecorator\\LoggerDecorator.cs",
+              "RelativeToolTip": "ApiVendas\\Services\\ImplaComDecorator\\LoggerDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:02:30.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculadoraPrecoProduto.cs",
+              "DocumentMoniker": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\Abstractions\\ICalculadoraPrecoProduto.cs",
+              "RelativeDocumentMoniker": "ApiVendas\\Services\\Abstractions\\ICalculadoraPrecoProduto.cs",
+              "ToolTip": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\Abstractions\\ICalculadoraPrecoProduto.cs",
+              "RelativeToolTip": "ApiVendas\\Services\\Abstractions\\ICalculadoraPrecoProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:59:53.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiVendas.csproj",
+              "DocumentMoniker": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\ApiVendas.csproj",
+              "RelativeDocumentMoniker": "ApiVendas\\ApiVendas.csproj",
+              "ToolTip": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\ApiVendas.csproj",
+              "RelativeToolTip": "ApiVendas\\ApiVendas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T23:49:42.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DescontoDecorator.cs",
+              "DocumentMoniker": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\ImplaComDecorator\\DescontoDecorator.cs",
+              "RelativeDocumentMoniker": "ApiVendas\\Services\\ImplaComDecorator\\DescontoDecorator.cs",
+              "ToolTip": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\ImplaComDecorator\\DescontoDecorator.cs",
+              "RelativeToolTip": "ApiVendas\\Services\\ImplaComDecorator\\DescontoDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:48:58.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Program.cs",
+              "RelativeDocumentMoniker": "ApiVendas\\Program.cs",
+              "ToolTip": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Program.cs",
+              "RelativeToolTip": "ApiVendas\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:48:44.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraPrecoProduto.cs",
+              "DocumentMoniker": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\ImplaComDecorator\\CalculadoraPrecoProduto.cs",
+              "RelativeDocumentMoniker": "ApiVendas\\Services\\ImplaComDecorator\\CalculadoraPrecoProduto.cs",
+              "ToolTip": "D:\\_Videos\\_net9\\aspnet\\ApiVendas\\ApiVendas\\Services\\ImplaComDecorator\\CalculadoraPrecoProduto.cs",
+              "RelativeToolTip": "ApiVendas\\Services\\ImplaComDecorator\\CalculadoraPrecoProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:59:54.637Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

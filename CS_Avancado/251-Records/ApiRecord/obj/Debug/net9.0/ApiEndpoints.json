@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ApiRecord.Controllers.UsuariosController",
+    "Method": "Criar",
+    "RelativePath": "Usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ApiRecord.Models.CriarUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiRecord.Controllers.UsuariosController",
+    "Method": "Comparar",
+    "RelativePath": "Usuarios/comparar-objetos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiRecord.Controllers.UsuariosController",
+    "Method": "ExemploComWith",
+    "RelativePath": "Usuarios/exemplo-com-with",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

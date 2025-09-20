@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\Antes.exe
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\Antes.deps.json
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\Antes.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\Antes.dll
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\bin\Debug\net9.0\Antes.pdb
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\Antes.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\Antes.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\Antes.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\Antes.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\Antes.dll
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\refint\Antes.dll
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\Antes.pdb
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\Antes.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\CShp_PrimaryRequired\CShp_PrimaryRequired\obj\Debug\net9.0\ref\Antes.dll

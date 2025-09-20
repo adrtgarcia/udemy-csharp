@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\bin\Debug\net9.0\Demo2_Span.exe
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\bin\Debug\net9.0\Demo2_Span.deps.json
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\bin\Debug\net9.0\Demo2_Span.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\bin\Debug\net9.0\Demo2_Span.dll
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\bin\Debug\net9.0\Demo2_Span.pdb
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\Demo2_Span.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\Demo2_Span.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\Demo2_Span.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\Demo2_Span.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\Demo2_Span.dll
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\refint\Demo2_Span.dll
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\Demo2_Span.pdb
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\Demo2_Span.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\SpanDemo\Demo2_Span\obj\Debug\net9.0\ref\Demo2_Span.dll
