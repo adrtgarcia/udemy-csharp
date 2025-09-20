@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\bin\Debug\net9.0\Partial_Properties.exe
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\bin\Debug\net9.0\Partial_Properties.deps.json
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\bin\Debug\net9.0\Partial_Properties.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\bin\Debug\net9.0\Partial_Properties.dll
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\bin\Debug\net9.0\Partial_Properties.pdb
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\Partial_Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\Partial_Properties.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\Partial_Properties.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\Partial_Properties.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\Partial_Properties.dll
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\refint\Partial_Properties.dll
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\Partial_Properties.pdb
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\Partial_Properties.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\Partial_Properties\Partial_Properties\obj\Debug\net9.0\ref\Partial_Properties.dll

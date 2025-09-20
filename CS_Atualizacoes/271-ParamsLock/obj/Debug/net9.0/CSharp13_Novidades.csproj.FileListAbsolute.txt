@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\bin\Debug\net9.0\CSharp13_Novidades.exe
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\bin\Debug\net9.0\CSharp13_Novidades.deps.json
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\bin\Debug\net9.0\CSharp13_Novidades.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\bin\Debug\net9.0\CSharp13_Novidades.dll
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\bin\Debug\net9.0\CSharp13_Novidades.pdb
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\CSharp13_Novidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\CSharp13_Novidades.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\CSharp13_Novidades.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\CSharp13_Novidades.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\CSharp13_Novidades.dll
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\refint\CSharp13_Novidades.dll
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\CSharp13_Novidades.pdb
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\CSharp13_Novidades.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\CSharp13_Novidades\obj\Debug\net9.0\ref\CSharp13_Novidades.dll
