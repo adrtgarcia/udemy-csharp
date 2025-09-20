@@ -13,10 +13,10 @@ Repositório para o curso C# Essencial (com LINQ, .NET 7.0, .NET 8.0 e .NET 9.0)
 | 06 | programação orientada a objetos | [CS_POO](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_POO) |
 | 07 | generics e coleções genéricas | [CS_Generics](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_Generics) |
 | 08 | tratamento de erros | [CS_TratamentoErros](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_TratamentoErros) |
-| 09 | delegates, expressão lambda, eventos e linq | ... |
-| 10 | arquivos, diretórios e streams | ... |
-| 11 | serialização e desserialização | ... |
-| 12 | programação assíncrona | ... |
-| 13 | cortesia - linq | ... |
-| 14 | c# - conceitos avançados com aplicações práticas | ... |
-| 15 | atualizações do c# - recursos das novas versões do c# | ... |
+| 09 | delegates, expressão lambda, eventos e linq | [CS_Delegates](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_Delegates) |
+| 10 | arquivos, diretórios e streams | [CS_Arquivos](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_Arquivos) |
+| 11 | serialização e desserialização | [CS_Serializacao](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_Serializacao) |
+| 12 | programação assíncrona | [CS_Assincrono](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_Assincrono) |
+| 13 | cortesia - linq | [CS_LINQ](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_LINQ) |
+| 14 | c# - conceitos avançados com aplicações práticas | [CS_Avancado](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_Avancado) |
+| 15 | atualizações do c# - recursos das novas versões do c# | [CS_Atualizacoes](https://github.com/adrtgarcia/udemy-csharp/tree/main/CS_Atualizacoes) |
