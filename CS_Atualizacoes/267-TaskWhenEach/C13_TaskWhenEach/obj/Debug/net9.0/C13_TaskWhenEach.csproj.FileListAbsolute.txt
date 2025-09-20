@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\bin\Debug\net9.0\C13_TaskWhenEach.exe
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\bin\Debug\net9.0\C13_TaskWhenEach.deps.json
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\bin\Debug\net9.0\C13_TaskWhenEach.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\bin\Debug\net9.0\C13_TaskWhenEach.dll
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\bin\Debug\net9.0\C13_TaskWhenEach.pdb
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\C13_TaskWhenEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\C13_TaskWhenEach.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\C13_TaskWhenEach.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\C13_TaskWhenEach.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\C13_TaskWhenEach.dll
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\refint\C13_TaskWhenEach.dll
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\C13_TaskWhenEach.pdb
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\C13_TaskWhenEach.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\C13_TaskWhenEach\C13_TaskWhenEach\obj\Debug\net9.0\ref\C13_TaskWhenEach.dll

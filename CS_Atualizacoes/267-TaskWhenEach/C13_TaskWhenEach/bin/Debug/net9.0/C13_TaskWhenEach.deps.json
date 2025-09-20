@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "C13_TaskWhenEach/1.0.0": {
+        "runtime": {
+          "C13_TaskWhenEach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C13_TaskWhenEach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\bin\Debug\net9.0\OperadorImplicito.exe
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\bin\Debug\net9.0\OperadorImplicito.deps.json
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\bin\Debug\net9.0\OperadorImplicito.runtimeconfig.json
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\bin\Debug\net9.0\OperadorImplicito.dll
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\bin\Debug\net9.0\OperadorImplicito.pdb
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\OperadorImplicito.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\OperadorImplicito.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\OperadorImplicito.AssemblyInfo.cs
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\OperadorImplicito.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\OperadorImplicito.dll
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\refint\OperadorImplicito.dll
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\OperadorImplicito.pdb
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\OperadorImplicito.genruntimeconfig.cache
+D:\_Artigos\_net9\_cshp13\OperadorImplicito\OperadorImplicito\obj\Debug\net9.0\ref\OperadorImplicito.dll
