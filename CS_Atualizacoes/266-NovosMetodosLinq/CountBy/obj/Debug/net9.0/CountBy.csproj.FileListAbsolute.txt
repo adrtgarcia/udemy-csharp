@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\bin\Debug\net9.0\CountBy.exe
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\bin\Debug\net9.0\CountBy.deps.json
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\bin\Debug\net9.0\CountBy.runtimeconfig.json
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\bin\Debug\net9.0\CountBy.dll
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\bin\Debug\net9.0\CountBy.pdb
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\CountBy.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\CountBy.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\CountBy.AssemblyInfo.cs
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\CountBy.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\CountBy.dll
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\refint\CountBy.dll
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\CountBy.pdb
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\CountBy.genruntimeconfig.cache
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\CountBy\obj\Debug\net9.0\ref\CountBy.dll

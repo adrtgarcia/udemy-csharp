@@ -1,0 +1,14 @@
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\bin\Debug\net9.0\Index.exe
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\bin\Debug\net9.0\Index.deps.json
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\bin\Debug\net9.0\Index.runtimeconfig.json
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\bin\Debug\net9.0\Index.dll
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\bin\Debug\net9.0\Index.pdb
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\Index.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\Index.AssemblyInfoInputs.cache
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\Index.AssemblyInfo.cs
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\Index.csproj.CoreCompileInputs.cache
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\Index.dll
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\refint\Index.dll
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\Index.pdb
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\Index.genruntimeconfig.cache
+D:\_Artigos\_net9\_linq\LINQ_NovosMetodos\Index\obj\Debug\net9.0\ref\Index.dll
